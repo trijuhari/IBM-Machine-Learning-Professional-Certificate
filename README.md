@@ -14,24 +14,24 @@ This [program](https://www.coursera.org/professional-certificates/ibm-machine-le
 
 This project attempts to investigate data consisting of records on healthy life expectancy and number of years lived with disability by countries and years.
 
-## [Supervised Learning: Regression](https://github.com/XandraV/ibm-machine-learning-certificate-projects/tree/master/supervised-learning-regression) :octocat:
+## [Supervised Learning: Regression](#) :octocat:
 
 I used linear regression algorithms to construct a model that accurately predicts how covid-19 affected the global economy of different countries by finding relationship between GDP and human development index and total number of death.
 
 
-## [Supervised Learning: Classification](https://github.com/XandraV/ibm-machine-learning-certificate-projects/tree/master/supervised-learning-classification) :octocat:
+## [Supervised Learning: Classification](#) :octocat:
 
 ClinVar is a public resource containing annotations about human genetic variants. In this project, I employed classifier models to predicts whether a ClinVar variant had conflicting classifications.
 
-## [Unsupervised Learning](https://github.com/XandraV/ibm-machine-learning-certificate-projects/tree/master/unsupervised-learning-clustering) :octocat:
+## [Unsupervised Learning](#) :octocat:
 
 The dataset for this project contains New York Stock Exchange historical metrics. I focused on clustering and apply unsupervised learning techniques to find the best candidate algorithm that accurately predicts whether a company has net profit or net loss.
 
-## [Deep Learning and Reinforcement Learning](https://github.com/XandraV/ibm-machine-learning-certificate-projects/tree/master/deep-learning-image-recognition) :octocat:
+## [Deep Learning and Reinforcement Learning](#) :octocat:
 
 In this project I used images of Egyptian hieroglyphs found in the Pyramid of Unas. The goal was to train an image classifier from scratch and utilize transfer learning to build a model that recognizes different hieroglyphs and predict their [Gardiner labels](https://en.wikipedia.org/wiki/Gardiner%27s_sign_list).
 
-## [Specialized Models: Time Series and Survival Analysis](https://github.com/XandraV/ibm-machine-learning-certificate-projects/tree/master/time-series-and-survival-analysis) :octocat:
+## [Specialized Models: Time Series and Survival Analysis](#) :octocat:
 
 
 Here I used Recurrent Neural Network (RNN) and Long Short-Term Memory (LSTM) to predict Google daily stock market prices. We are interested in forecasting the 'Close' series.
