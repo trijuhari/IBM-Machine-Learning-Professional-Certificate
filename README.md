@@ -10,7 +10,7 @@
 This [program](https://www.coursera.org/professional-certificates/ibm-machine-learning) consists of 6 courses to develop working skills in the main areas of Machine Learning: **Supervised Learning**, **Unsupervised Learning**, **Deep Learning**, **Reinforcement Learning** and specialized topics such as **Time Series Analysis** and **Survival Analysis**.
 
 
-## [Exploratory Data Analysis for Machine Learning](https://github.com/XandraV/ibm-machine-learning-certificate-projects/tree/master/exploratory-data-analysis) :octocat:
+## [Exploratory Data Analysis for Machine Learning](https://github.com/trijuhari/Machine-Learning/tree/main/Exploratory%20Data%20Analysis%20for%20Machine%20Learning) :octocat:
 
 This project attempts to investigate data consisting of records on healthy life expectancy and number of years lived with disability by countries and years.
 
